@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.intestazione{
+    height: 700px;
+    width: 100%;
+    background-color: blue;
+    padding-top: 10px;
+}
+.discord{
+    height: 80px;
+    width: 60%;
+    margin: auto;
+    margin-bottom: 70px;
+    background-color: blueviolet;
+}
+.discord2{
+    
+    height: 400px;
+    width: 50%;
+    margin: auto;
+    background-color: brown;
+}
+.sezione1{
+    height: 600px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.img{
+    margin-top: 100px;
+    height: 400px;
+    width: 30%;
+    background-color: aqua;
+    margin-right: -300px;
+}
+.testo{
+    margin-top: 100px;
+    height: 400px;
+    width: 30%;
+    background-color: chocolate;
+}
+.img2{
+    margin-top: 100px;
+    height: 400px;
+    width: 30%;
+    background-color: aqua;
+    
+}
+.testo2{
+    margin-top: 100px;
+    height: 400px;
+    width: 30%;
+    margin-right: -300px;
+    background-color: chocolate;
+}
+.sezione2{
+    height: 600px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: lightgray;
+}
+.sezione3{
+    height: 600px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.download{
+    height: 1400px;
+    width: 100%;
+    padding-top: 100px;
+    
+    background-color: lightskyblue;
+}
+.tech{
+    height: 250px;
+    width: 70%;
+   margin: auto;
+    
+    
+    background-color: blueviolet;
+}
+.img3{
+    height: 500px;
+    width: 70%;
+    background-color: brown;
+    margin: 100px auto;
+
+}
+.scarica{
+    height: 250px;
+    width: 70%;
+   margin: auto;
+    
+    
+    background-color: blueviolet;
+}
+
+.footer{
+    width: 100%;
+    height: 500px;
+    background-color: darkgray;
+    padding-top: 50px;
+    
+}
+.container{
+    width: 70%;
+    margin: auto;
+    height: 300px;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.col1{
+    height: 200px;
+    width: 20%;
+    background-color: aquamarine;
+}
+.col2{
+    height: 280px;
+    width: 12%;
+    background-color: darkcyan;
+    text-align: left;
+}
+.fine{
+    width: 70%;
+    height: 100px;
+    margin: auto;
+    background-color: darkgoldenrod;
+}
+
+
+
+
+
+
+
